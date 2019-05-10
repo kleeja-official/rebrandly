@@ -176,7 +176,7 @@ $kleeja_plugin['rebrandly']['functions'] = array(
  * special functions
  */
 
-if (!function_exists('genera_rebrandly_link')) {
+if (!function_exists('generate_rebrandly_link')) {
     function generate_rebrandly_link($link)
     {
         global $config;
